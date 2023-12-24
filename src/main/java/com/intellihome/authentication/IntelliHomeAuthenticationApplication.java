@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IntellihomeAuthenticationApplication {
+public class IntelliHomeAuthenticationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(IntellihomeAuthenticationApplication.class, args);
+        SpringApplication.run(IntelliHomeAuthenticationApplication.class, args);
     }
 
 }
