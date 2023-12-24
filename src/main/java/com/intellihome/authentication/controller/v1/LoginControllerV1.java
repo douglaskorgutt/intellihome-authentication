@@ -8,6 +8,6 @@ public class LoginControllerV1 {
 
     @GetMapping("/login")
     public String login() {
-        return "User has successfully logged in";
+        return "User has successfully logged in!!";
     }
 }
